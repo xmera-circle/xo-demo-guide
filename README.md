@@ -21,7 +21,9 @@ So you need to install:
 For doing so, make sure you run the latest Node.js LTS version:
 
     node --version
-    v16.13.1
+    v18.12.1
+
+Follow the [instructions for Linux](https://docs.antora.org/antora/latest/install/linux-requirements/#upgrade-node) in order to upgrade to the latest LTS version of node.
 
 Install all dependencies of this project by
 
