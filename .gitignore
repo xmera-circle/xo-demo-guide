@@ -2,3 +2,4 @@
 pdf/xo-doc.pdf
 .vscode/
 node_modules/
+build/
