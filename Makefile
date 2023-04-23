@@ -43,10 +43,10 @@ endif
 html_browser: #: Generate antora html output AND open index.html in browser
 ifeq ($(LOCAL), 1)
 	${PATH_TO_FILE}/antora playbook.yml; \
-	firefox build/site/index.html;
+	firefox build/index.html;
 else
 	antora playbook.yml; \
-	firefox build/site/index.html;
+	firefox build/index.html;
 endif
 
 .PHONY: pdf

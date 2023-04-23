@@ -1,7 +1,6 @@
 name: xmera-omnia-demo-guide
 title: xmera Omnia Demo Guide
-version: ~
-display_version: latest
+version: 'latest'
 start_page: einfuehrung:index.adoc
 nav:
 - modules/ROOT/partials/nav.adoc
